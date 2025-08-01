@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Raghu!
+# Hi there 👋, I'm RaghuRaj!
 
 ## 🚀 Senior Software Developer | Full Stack Engineer | DevOps & Automation Enthusiast
 
