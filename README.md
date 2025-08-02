@@ -42,7 +42,7 @@ Driven by curiosity and a passion for solving challenging problems, I thrive in 
 
 - Sports enthusiast: Volleyball, Table Tennis, Basketball 🏐🏓🏀
 - Gardening & nature lover 🌱
-- Always exploring new tech and frameworks
+- Always exploring new tech, frameworks and libraries
 
 ---
 
