@@ -52,7 +52,7 @@ Driven by curiosity and a passion for solving challenging problems, I thrive in 
 ### 📫 Connect with Me
 
 **Email:** raghurajs212@gmail.com  
-**Phone:** +91-XXXXXXXXXX
+**Phone:** +91-6375494476
 
 <!-- Optionally add LinkedIn, Twitter, or other social links below -->
 <!-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
