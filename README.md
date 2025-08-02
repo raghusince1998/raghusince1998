@@ -27,8 +27,11 @@ I'm a passionate Senior Software Developer who loves crafting scalable, end-to-e
 - **HRMS with Janus WebRTC:**  
   Integrated Janus WebRTC into a Human Resource Management System for real-time, modern communication.
 
-- **Sappunchin – Secure Login Automation:**  
-  Built a secure login automation platform using **Node.js**, **Express**, and **Puppeteer**. Sappunchin automates web login flows, manages cookies and sessions, supports SSL certificates, and handles multiple concurrent sessions with Puppeteer Cluster. Equipped with structured logging, EJS templating, and environment-based configurability, it provides a reusable and scalable approach to secure session automation.
+- **Sappunchin – Secure Session Bridge for SAP & Microsoft Dynamics 365**  
+  Built a robust session orchestration platform to integrate secure login flows between **MSDyn365 CRM** and **SAP systems**. Sappunchin uses **Node.js**, **Express**, and **Puppeteer Cluster** to automate sign-    ins, extract and manage cookies, and inject session identity across enterprise touchpoints. Supports SSL, dynamic form rendering (EJS), structured performance logging, and session fallback logic. Adaptable for    any platform needing automated login and secure session replication.
+
+  > 🔐 Use Case: Seamless integration of SAP Fiori and MS Dynamics 365 portals using headless browser automation and custom session handoff.
+
 
 - **Comprehensive DevOps Pipelines & Automated Deployments:**  
   Automated cloud infrastructure and application deployments using AWS services and **GitHub Actions**—including building CI/CD pipelines that deploy code directly to servers for seamless, reliable delivery.
