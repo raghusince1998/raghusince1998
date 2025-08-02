@@ -8,11 +8,11 @@ I'm a passionate Senior Software Developer who loves crafting scalable, end-to-e
 
 ### 🛠️ Core Skills
 
-- **Frontend:** React.js, HTML, JavaScript
-- **Backend:** Node.js, NestJS, Java, Spring Boot, Knex
-- **CRM:** MS Dynamics 365 (MSDyn365 CRM)
-- **DevOps & Cloud:** AWS (EC2, S3, RDS, CodeBuild, CodeDeploy), CI/CD Pipelines, **GitHub Actions** (including server deployments)
-- **Other:** WebRTC (Janus), Application Architecture
+- **Frontend:** React.js, HTML, JavaScript  
+- **Backend:** Node.js, NestJS, Java, Spring Boot, Knex, Drizzle-orm, fastify, express.  
+- **CRM:** MS Dynamics 365 (MSDyn365 CRM)  
+- **DevOps & Cloud:** AWS (EC2, S3, RDS, CodeBuild, CodeDeploy), CI/CD Pipelines, **GitHub Actions** (including server deployments)  
+- **Other:** WebRTC (Janus), Application Architecture  
 
 ---
 
@@ -27,6 +27,9 @@ I'm a passionate Senior Software Developer who loves crafting scalable, end-to-e
 - **HRMS with Janus WebRTC:**  
   Integrated Janus WebRTC into a Human Resource Management System for real-time, modern communication.
 
+- **Sappunchin – Secure Login Automation:**  
+  Built a secure login automation platform using **Node.js**, **Express**, and **Puppeteer**. Sappunchin automates web login flows, manages cookies and sessions, supports SSL certificates, and handles multiple concurrent sessions with Puppeteer Cluster. Equipped with structured logging, EJS templating, and environment-based configurability, it provides a reusable and scalable approach to secure session automation.
+
 - **Comprehensive DevOps Pipelines & Automated Deployments:**  
   Automated cloud infrastructure and application deployments using AWS services and **GitHub Actions**—including building CI/CD pipelines that deploy code directly to servers for seamless, reliable delivery.
 
@@ -40,18 +43,19 @@ Driven by curiosity and a passion for solving challenging problems, I thrive in 
 
 ### ⚡ Fun Facts & Hobbies
 
-- Sports enthusiast: Volleyball, Table Tennis, Basketball 🏐🏓🏀
-- Gardening & nature lover 🌱
+- Sports enthusiast: Volleyball, Table Tennis, Basketball 🏐🏓🏀  
+- Gardening & nature lover 🌱  
 - Always exploring new tech, frameworks and libraries
 
 ---
 
-<!-- Optionally add your social links here -->
-<!--
 ### 📫 Connect with Me
 
-[LinkedIn](#) | [Twitter](#) | [Personal Website](#)
--->
+**Email:** raghurajs212@gmail.com  
+**Phone:** +91-XXXXXXXXXX
+
+<!-- Optionally add LinkedIn, Twitter, or other social links below -->
+<!-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
 
 ---
 
