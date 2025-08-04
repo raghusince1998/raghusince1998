@@ -53,10 +53,13 @@ Driven by curiosity and a passion for solving challenging problems, I thrive in 
 ---
 
 ### 📫 Connect with Me
+For any issues or questions, feel free to reach out:
 
-**Email:** raghurajs212@gmail.com  
-**Phone:** +91-6375494476
-**NPM:** [NPM Profile](https://www.npmjs.com/~raghuraj-singh-solanki)
+- 🧑‍💻 GitHub: [raghusince1998](https://github.com/raghusince1998)
+- 📦 npm: [@raghusince1998/react-grid](https://www.npmjs.com/package/@raghusince1998/react-grid)
+  [![npm version](https://img.shields.io/npm/v/@raghusince1998/react-grid.svg)](https://www.npmjs.com/package/@raghusince1998/react-grid)
+- 📧 Email: [raghurajs212@gmail.com](mailto:raghurajs212@gmail.com)
+- 📞 Phone: +91-6375494476
 
 <!-- Optionally add LinkedIn, Twitter, or other social links below -->
 <!-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
