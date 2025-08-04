@@ -56,7 +56,7 @@ Driven by curiosity and a passion for solving challenging problems, I thrive in 
 For any issues or questions, feel free to reach out:
 
 - 🧑‍💻 GitHub: [raghusince1998](https://github.com/raghusince1998)
-- 📦 npm: [@raghusince1998/react-grid](https://www.npmjs.com/package/@raghusince1998/react-grid)
+- 📦 npm: [@raghuraj-singh-solanki](https://www.npmjs.com/~raghuraj-singh-solanki)
 - 📧 Email: [raghurajs212@gmail.com](mailto:raghurajs212@gmail.com)
 - 📞 Phone: +91-6375494476
 
