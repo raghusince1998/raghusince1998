@@ -57,7 +57,6 @@ For any issues or questions, feel free to reach out:
 
 - 🧑‍💻 GitHub: [raghusince1998](https://github.com/raghusince1998)
 - 📦 npm: [@raghusince1998/react-grid](https://www.npmjs.com/package/@raghusince1998/react-grid)
-  [![npm version](https://img.shields.io/npm/v/@raghusince1998/react-grid.svg)](https://www.npmjs.com/package/@raghusince1998/react-grid)
 - 📧 Email: [raghurajs212@gmail.com](mailto:raghurajs212@gmail.com)
 - 📞 Phone: +91-6375494476
 
