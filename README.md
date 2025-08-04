@@ -8,7 +8,7 @@ I'm a passionate Senior Software Developer who loves crafting scalable, end-to-e
 
 ### 🛠️ Core Skills
 
-- **Frontend:** React.js, HTML, JavaScript  
+- **Frontend:** React.js, HTML, JavaScript, Typescript  
 - **Backend:** Node.js, NestJS, Java, Spring Boot, Knex, Drizzle-orm, fastify, express.  
 - **CRM:** MS Dynamics 365 (MSDyn365 CRM)  
 - **DevOps & Cloud:** AWS (EC2, S3, RDS, CodeBuild, CodeDeploy), CI/CD Pipelines, **GitHub Actions** (including server deployments)  
