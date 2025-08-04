@@ -56,6 +56,7 @@ Driven by curiosity and a passion for solving challenging problems, I thrive in 
 
 **Email:** raghurajs212@gmail.com  
 **Phone:** +91-6375494476
+**NPM:  ** [NPM](https://www.npmjs.com/~raghuraj-singh-solanki)
 
 <!-- Optionally add LinkedIn, Twitter, or other social links below -->
 <!-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
