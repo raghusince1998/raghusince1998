@@ -35,10 +35,10 @@ I'm a passionate Senior Software Developer who loves crafting scalable, end-to-e
 - **Node.js Reverse Proxy Server (NGINX Replacement)**
 Engineered a high-performance, programmable reverse proxy solution using Node.js and http-proxy, serving as a flexible alternative to NGINX. Implemented dynamic domain and path-based routing, SSL termination, and a custom hybrid disk-memory caching system (hybridCustomCache) that reduced redundant upstream requests by up to 60%. Integrated Pino logging for granular request tracking and performance analytics, enabling real-time observability and debugging.
 
- > ⚙️ Key Highlights:
- > - • Achieved up to 40% faster average response times for cached routes
- > - • Supported on-the-fly route configuration for multi-domain environments
- > - • Enhanced transparency and maintainability with structured logging and cache metrics
+   > ⚙️ Key Highlights:
+   > -  Achieved up to 40% faster average response times for cached routes
+   > -  Supported on-the-fly route configuration for multi-domain environments
+   > -  Enhanced transparency and maintainability with structured logging and cache metrics
 
 
 - **Comprehensive DevOps Pipelines & Automated Deployments:**  
